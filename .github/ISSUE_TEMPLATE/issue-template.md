@@ -1,12 +1,3 @@
----
-name: Issue template
-about: Default issue template
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
